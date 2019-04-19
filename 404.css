@@ -2,9 +2,7 @@
 /* CSS Document */
 
 body {
-background: #2193b0; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #2193b0, #6dd5ed); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #2193b0, #6dd5ed); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 #banner {
@@ -126,14 +124,34 @@ background: #2193b0; /* fallback for old browsers */
 	
 	}
 #games {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: black;
-	font-size: 30px;
+	font-size: 200px;
 	text-align: center;
-	
-	
-	
+		
 }
+#not {
+	font-family: 'Rubik', sans-serif;
+	color: black;
+	font-size: 45px;
+	text-align: center;
+		
+}
+#ever {
+	font-family: 'Rubik', sans-serif;
+	color: black;
+	font-size: 25px;
+	text-align: center;
+		
+}
+#home {
+	font-family: 'Rubik', sans-serif;
+	color: black;
+	font-size: 10px;
+	text-align: center;
+		
+}
+
 
 #footer {
   font-family: 'Karla', sans-serif;

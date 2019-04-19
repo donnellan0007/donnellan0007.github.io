@@ -7,6 +7,9 @@ background: -webkit-linear-gradient(to right, #12FFF7, #B3FFAB);  /* Chrome 10-2
 background: linear-gradient(to right, #12FFF7, #B3FFAB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+html {
+    scroll-behavior: smooth;
+  }
 
 #banner {
 			-moz-align-items: center;
@@ -153,7 +156,15 @@ background: linear-gradient(to right, #12FFF7, #B3FFAB); /* W3C, IE 10+/ Edge, F
 
 	
 	
-	}
+    }
+    #goal {
+        font-family: 'Montserrat', sans-serif;
+        color: black;
+        font-size: 30px;
+        text-align: center;
+        
+
+    }
 #games {
 	font-family: 'Karla', sans-serif;
 	color: black;
