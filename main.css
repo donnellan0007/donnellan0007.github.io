@@ -193,3 +193,63 @@ body {
     }
   }
   
+
+/*
+
+<!--
+    <!--Header-->
+    
+    <div class="topnav">
+        
+            <img class="logo" src="discord.png" alt="Discord Logo">
+            <a class="active" href="#download">Download</a>
+            <a href="#nitro">Nitro</a>
+            <a href="#jobs">Jobs</a>
+            <a href="#developers">Developers</a>
+						<a href="#community">Community</a>
+						
+            <button class="open">Open</button>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-square"></i>
+						<i class="fab fa-twitter"></i>
+						<a class="icon" onclick="myFunction()">
+							<i class="fa fa-bars"></i>
+            
+            
+          </div>
+
+    <!--Banner Start-->
+<section class="banner">
+	
+		<div class="inner">
+		<h1>It's time to ditch Skype and TeamSpeak</h1>
+			
+		
+			</div>
+	</section>
+	
+	
+<!--Main-->
+	<div class="main">
+		
+		
+		
+		
+		<h3>All-in-one voice and text chat for gamers 
+            that's free, secure, and works on both your desktop and phone.</h3>
+						<h3> Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life.</h3>
+						<div class="downbtn">
+                <button class="download">Download for Windows</button>
+            </div>
+            
+            
+            <img class="desktop" src="Desktop.svg" alt="Discord Logo">
+            
+	</div>
+	
+	<br>
+	<br>
+	
+
+	-->
+	    */
